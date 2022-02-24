@@ -1,0 +1,10 @@
+/*WooCommerece category slider */
+.woocommerce.splide ul.products li.product {
+	margin: 0;
+}
+
+@media (max-width: 768px) {
+	.splide .splide__pagination {
+		top: 85%;
+	}
+}
