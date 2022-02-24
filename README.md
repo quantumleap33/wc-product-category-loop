@@ -1,5 +1,4 @@
 # WooCommerce product categories loop
-WooCommerce product categories loop.
 
 Use <strong>[gm_display_product_categories]</strong> shortcode.
 
